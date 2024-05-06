@@ -6,6 +6,8 @@ public class Main {
 		// TODO Auto-generated method stub
 
 		JOptionPane.showMessageDialog(null, "Aca reina ghami");
+		
+		JOptionPane.showMessageDialog(null, "xd");
 	}
 
 }
